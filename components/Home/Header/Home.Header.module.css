@@ -1,0 +1,7 @@
+.languageBox{
+    border: 0.5px solid white;
+    background-color: transparent;
+    align-items: center;
+    padding: 4px;
+    width: 110px;
+}
